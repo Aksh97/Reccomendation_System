@@ -1,2 +1,2 @@
-# Reccomendation_System
-REcommendation System
+# Recommendation_System
+Recommendation System
